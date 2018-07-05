@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1530763232 source:c:\users\cameronpalte\documents\github\epidemicmodeling\epidemicmodeling\src\human.cpp
+	"Human.h"
+
+1530763500 source:c:\users\cameronpalte\documents\github\epidemicmodeling\epidemicmodeling\main.cpp
+	<iostream>
+	"Human.h"
+
