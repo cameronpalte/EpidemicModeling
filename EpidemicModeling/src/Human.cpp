@@ -20,6 +20,7 @@ Human::Human(double w, double s, double m, double p, double c, double h, double 
     health = h;
     travel = t;
     location = l;
+    //extra
 }
 
 double getWeight(Human h)

@@ -17,6 +17,7 @@ class Human
         double health;
         double travel;
         double location;
+        //extra
 
     protected:
 
